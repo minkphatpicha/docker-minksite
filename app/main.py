@@ -6,8 +6,7 @@ import page3
 PAGES = {
     'Introduction': page1,
     'CV': page2,
-    'Page 3': page3,
-    'Test': page3
+    'Page 3': page3
 }
 
 st.sidebar.title('Hello World!')
